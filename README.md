@@ -1,6 +1,6 @@
 Jonathan Anderson
 
-937 572 9055 | jonathanandersonscholarships@gmail.com | https://github.com/PuffyPufferfish0
+937 572 9055 | jonathanandersonscholarships@gmail.com | https://github.com/PuffyPufferfish0/
 Objective
 
 Join a team of other creative Engineers with a foundation in software development. Interested in hardware robotics and reverse engineering for optimization, and security. Both a critical and a creative thinker with good communication skills, ready for data analytics and modeling.
