@@ -1,19 +1,24 @@
-Jonathan Anderson\
+# Jonathan Anderson
 
 
 937 572 9055 | jonathanandersonscholarships@gmail.com | https://github.com/PuffyPufferfish0\
 
-Objective
+## Objective
 
 Join a team of other creative Engineers with a foundation in software development. Interested in hardware robotics and reverse engineering for optimization, and security. Both a critical and a creative thinker with good communication skills, ready for data analytics and modeling.
 Education
 Institution	Details
 Wright State University, Dayton, OH	B.S. Computer Engineering | Expected Graduation 2028
 Clinton-Massie High School, Clarksville, OH	High School Diploma | Graduated 2024
-GPA:	3.35
-Technical Projects
+GPA:	3.35\
+\
 
-Blink3D Engine Development
+
+## Technical Projects
+
+
+### Blink3D Engine Development
+
 
     Designing a custom 3D modeling software using C++
 
@@ -21,7 +26,7 @@ Blink3D Engine Development
 
     See at github.com/PuffyPufferfish0/Blink3D
 
-Midwest-Slop Sports
+### Midwest-Slop Sports
 
     Game Jam entry for the 2026 Wright-State game jam
 
@@ -29,13 +34,13 @@ Midwest-Slop Sports
 
     See at github.com/PuffyPufferfish0/midwest-slop-sports
 
-Skills/hobbies
-Category	Details
-Coding skills:	Java, Bash, C++, Assembly (LC3), MATLAB, GodotScript
-Software & Design:	SolidWorks (CSWA Certified), Fusion 360, Blender, 3D Printing
-Technical:	Linux Systems (Mint, fedora, Ubuntu, Arch, etc), Microcontrollers (ESP32, Raspberry Pi, Arduino)
+## Skills/hobbies
 
-Hobbies
+    Coding skills:	Java, Bash, C++, Assembly (LC3), MATLAB, GodotScript
+    Software & Design:	SolidWorks (CSWA Certified), Fusion 360, Blender, 3D Printing
+    Technical:	Linux Systems (Mint, fedora, Ubuntu, Arch, etc), Microcontrollers (ESP32, Raspberry Pi, Arduino)
+
+# Hobbies
 
     NSA codebreaker: I believe I was one of only two students at wright state to make it past task 2 of the 25-26 codebreaker.
 
@@ -53,9 +58,11 @@ Hobbies
 
     Fishing: I enjoy fishing in a local creek or river in my free time.
 
-Experience
 
-Climbing Gym | Wright-State University | 2024-2026
+## **Experience**
+
+
+### Climbing Gym | Wright-State University | 2024-2026
 
     Oversee boulder climbers’
 
@@ -65,9 +72,9 @@ Climbing Gym | Wright-State University | 2024-2026
 
     Certified outdoor backpacking adventure trip leader
 
-Mediterranean Restaurant & Cafe | Wilmington, OH | 2025-2026 (current)
+### Mediterranean Restaurant & Cafe | Wilmington, OH | 2025-2026 (current)
 
-line cook
+    line cook
 
     Collaborate with a team of 5-6 people to run a kitchen under pressure
 
@@ -75,9 +82,9 @@ line cook
 
     Prepare Delicious meals food in a timely manner (recommend the Penne Rigate)
 
-Glen Harner Fish Farm | Xenia, OH | 2023 – 2024
+### Glen Harner Fish Farm | Xenia, OH | 2023 – 2024
 
-Farmhand
+    Farmhand
 
     Managed filtration systems
 
