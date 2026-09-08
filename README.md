@@ -11,7 +11,7 @@ Institution	Details
 Wright State University, Dayton, OH	B.S. Computer Engineering | Expected Graduation 2028
 Clinton-Massie High School, Clarksville, OH	High School Diploma | Graduated 2024
 GPA:	3.35\
-\
+
 
 
 ## Technical Projects
